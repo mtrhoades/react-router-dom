@@ -2,9 +2,9 @@ import * as React from "react";
 import { Routes, Route, Link } from "react-router-dom";
 import "./App.css";
 import Navbar from "./components/Navbar";
-import Home from "./components/Home";
-import About from "./components/About";
-import Portfolio from "./components/Portfolio";
+import Home from "./pages/Home";
+import About from "./pages/About";
+import Portfolio from "./pages/Animals";
 
 export default function App() {
   return (

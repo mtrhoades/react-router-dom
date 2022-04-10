@@ -10,9 +10,9 @@ export default function Navbar() {
         color: "black",
       }}
     >
-      <Link to='/'>Home Page</Link>
-      <Link to='/about'>About</Link>
+      <Link to='/'>Home</Link>
       <Link to='/portfolio'>Portfolio</Link>
+      <Link to='/about'>About</Link>
     </div>
   );
 }
