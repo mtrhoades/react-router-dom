@@ -1,7 +1,7 @@
 import React from "react";
 import Monster from "../components/Monster";
 import Ninja from "../components/Ninja";
-export default function Animals() {
+export default function Portfolio() {
   return (
     <div
       style={{
